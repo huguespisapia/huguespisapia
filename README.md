@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hugues Pisapia, currently CTO at Linxo and Linxo Connect.
+I'm Hugues Pisapia, currently Director of Architecture, Projects and Strategy at LCL.
 
 <!--
 **huguespisapia/huguespisapia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
